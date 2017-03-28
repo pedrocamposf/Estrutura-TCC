@@ -1,0 +1,10 @@
+Aplicativo Focus
+
+Esse aplicativo tem como objetivo validar o foco do usuário para realizar alguma tarefa durante um determinado período de tempo, e com isso verificar se usuário está utilizando seu tempo da melhor maneira possível. Para isso o usuário cadastra tarefas que pretende realizar, cada uma deve possuir data de inicio, data de termino e o tempo necessário para sua conclusão.
+
+Cada uma das tarefas cadastradas serão apresentadas em um menu com o status "em progresso", ao selecionar uma delas o usuário será redirecionado para tela de focus, que uma vez acessada a aplicação deverá guardar o tempo de permanência na tela.
+O usuário também pode selecionar as opções ao selecionar uma tarefa: deletar tarefa, alterar tarefa, visualizar o progresso da tarefa
+
+Caso o tempo de conclusão de uma tarefa tenha expirado seu status deve ficar "concluída" com isso o usuário não poderá mais fazer acesso na tela de focus. Uma tarefa com o status  "concluída" possui a opção dar feedback onde o usuário informa se a tarefa foi concluída com sucesso.
+
+Por fim o usuário receberá uma nota de será quantificada com a média de tarefas concluídas com sucesso.
